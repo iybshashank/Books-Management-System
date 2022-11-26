@@ -1,0 +1,274 @@
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.exe
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.deps.json
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.runtimeconfig.json
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.runtimeconfig.dev.json
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.pdb
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.Views.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.Views.pdb
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.pdb
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll.config
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.csproj.AssemblyReference.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.AssemblyInfoInputs.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.AssemblyInfo.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.csproj.CoreCompileInputs.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorAssemblyInfo.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorAssemblyInfo.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\web-app-book-manager.StaticWebAssets.Manifest.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.TagHelpers.input.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.TagHelpers.output.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorCoreGenerate.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorTargetAssemblyInfo.cache
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorTargetAssemblyInfo.cs
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.Views.pdb
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.csproj.CopyComplete
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.dll
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.pdb
+C:\Users\ShashankS\Desktop\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.genruntimeconfig.cache
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.exe
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.deps.json
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.runtimeconfig.json
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.runtimeconfig.dev.json
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.pdb
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.Views.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.Views.pdb
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.dll
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.pdb
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\linux transfer\bookManager\web-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll.config
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.csproj.AssemblyReference.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.AssemblyInfoInputs.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.AssemblyInfo.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.csproj.CoreCompileInputs.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.MvcApplicationPartsAssemblyInfo.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.MvcApplicationPartsAssemblyInfo.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorAssemblyInfo.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorAssemblyInfo.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\web-app-book-manager.StaticWebAssets.Manifest.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\web-app-book-manager.StaticWebAssets.Pack.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.web-app-book-manager.Microsoft.AspNetCore.StaticWebAssets.props
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.web-app-book-manager.props
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.web-app-book-manager.props
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.web-app-book-manager.props
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.TagHelpers.input.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.TagHelpers.output.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorCoreGenerate.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorTargetAssemblyInfo.cache
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorTargetAssemblyInfo.cs
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.Views.pdb
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.csproj.CopyComplete
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.dll
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.pdb
+D:\linux transfer\bookManager\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.genruntimeconfig.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.csproj.AssemblyReference.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.AssemblyInfoInputs.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.AssemblyInfo.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.csproj.CoreCompileInputs.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.MvcApplicationPartsAssemblyInfo.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.MvcApplicationPartsAssemblyInfo.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorAssemblyInfo.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorAssemblyInfo.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.pdb
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.exe
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.deps.json
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.runtimeconfig.json
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.runtimeconfig.dev.json
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.pdb
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.Views.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\web-app-book-manager.Views.pdb
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.dll
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.pdb
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll.config
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\web-app-book-manager.StaticWebAssets.Manifest.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\web-app-book-manager.StaticWebAssets.Pack.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.web-app-book-manager.Microsoft.AspNetCore.StaticWebAssets.props
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.web-app-book-manager.props
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.web-app-book-manager.props
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.web-app-book-manager.props
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.TagHelpers.input.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.TagHelpers.output.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorCoreGenerate.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorTargetAssemblyInfo.cache
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.RazorTargetAssemblyInfo.cs
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.Views.pdb
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.csproj.CopyComplete
+D:\linux transfer\BookManager\book-manager-application\web-book-manager\obj\Debug\netcoreapp3.1\web-app-book-manager.genruntimeconfig.cache

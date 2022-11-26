@@ -1,0 +1,162 @@
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.AssemblyReference.cache
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Create.resources
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Home.resources
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Login.resources
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Modify.resources
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.Properties.Resources.resources
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.SearchForm.resources
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.GenerateResource.cache
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.AssemblyInfoInputs.cache
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.AssemblyInfo.cs
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.CoreCompileInputs.cache
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.exe
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.dll.config
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.deps.json
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.runtimeconfig.json
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.runtimeconfig.dev.json
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.pdb
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.pdb
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll.config
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.CopyComplete
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.dll
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.pdb
+C:\Users\ShashankS\Desktop\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.genruntimeconfig.cache
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.exe
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.dll.config
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.deps.json
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.runtimeconfig.json
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.runtimeconfig.dev.json
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.pdb
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.dll
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.pdb
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\linux transfer\bookManager\windows-app-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll.config
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.AssemblyReference.cache
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Create.resources
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Home.resources
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Login.resources
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Modify.resources
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.Properties.Resources.resources
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.SearchForm.resources
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.GenerateResource.cache
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.AssemblyInfoInputs.cache
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.AssemblyInfo.cs
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.CoreCompileInputs.cache
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.CopyComplete
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.dll
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.pdb
+D:\linux transfer\bookManager\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.genruntimeconfig.cache
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.exe
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.dll.config
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.deps.json
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.runtimeconfig.json
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.runtimeconfig.dev.json
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\windows-app-book-manager.pdb
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\MiddleTier.pdb
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\bin\Debug\netcoreapp3.1\DataAccess.dll.config
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.AssemblyReference.cache
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Create.resources
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Home.resources
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Login.resources
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.Modify.resources
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.Properties.Resources.resources
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\WinFormsApp1.SearchForm.resources
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.GenerateResource.cache
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.AssemblyInfoInputs.cache
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.AssemblyInfo.cs
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.CoreCompileInputs.cache
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.csproj.CopyComplete
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.dll
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.pdb
+D:\linux transfer\BookManager\book-manager-application\windows-app-book-manager\obj\Debug\netcoreapp3.1\windows-app-book-manager.genruntimeconfig.cache

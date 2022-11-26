@@ -1,0 +1,60 @@
+﻿@model MiddleTier.Book;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<div style="margin-top:5vh">
+    <h1 class="display-6">Create</h1>
+</div>
+
+
+
+<div style="width:350px; padding-top:30px">
+    <form asp-action="Createb" style="color: black;padding-left:25px">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div>
+            <input asp-for="bName" type="text" style="border: none; background: #EFEFEF; box-shadow: none; font-weight:600 " class="form-control" id="BookName" placeholder="Name of the Book"></input>
+
+        </div>
+        <div style="padding-top:20px">
+            <input asp-for="bAuthor" style="border: none;background: #EFEFEF; box-shadow: none; font-weight:600 " class="form-control" id="Author" placeholder="Author of the Book"></input>
+
+        </div>
+        <div style="padding-top:20px">
+            <label style="padding-right:5px">Year</label>
+            <select asp-for="bYear" class="form-control" style="background: #EFEFEF;border:none" >
+                @for (int i = 2022;i>= 2000; i--)
+            {
+                <option value="@i">@i</option>
+            }
+
+                
+        
+
+            </select>
+
+        </div>
+        <div style="padding-top:20px">
+            <input type="number" asp-for="bISBN" style="border: none; background: #EFEFEF; box-shadow: none; font-weight:600 " class="form-control" id="Author" placeholder="Book ISBN"></input>
+
+        </div>
+        <div style="padding-top:20px">
+            @*        <input asp-for="bDescription" style="border: none; background: #EFEFEF; box-shadow: none; font-weight:600 " class="form-control" id="Author" placeholder="Author of the Book"></input>
+            *@        <textarea asp-for="bDescription" class="form-control" maxlength="999" rows="4" cols="40"style="border: none; background: #EFEFEF; box-shadow: none; font-weight: 600"></textarea>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <button style="margin-top: 30px; width: 100px; height: 40px; background-color: #007ACC; border: none; box-shadow: none; font-weight: bold" type="submit" class="btn btn-primary">Create</button>
+
+                </div>
+                <div class="col" style="margin-top: 41px">
+                    <a asp-action="Home" style="margin-top: 37px; font-weight: bold">Cancel</a>
+                </div>
+            </div>
+            </div>
+</form>
+    </div>
