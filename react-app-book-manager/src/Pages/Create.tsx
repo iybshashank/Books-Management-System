@@ -56,8 +56,10 @@ function Create(){
        function createSubmit(event:any){
 
         setErrorData({show:false,message:""})
-        if(formData.bName=="")
+        if(/^\s+$/.test(formData.bName) || formData.bName == ""){
             setErrorData({show:true,message:"Enter book name"})
+            return;
+        }
 
         event.preventDefault();
         axios.post(process.env.REACT_APP_API_URL+"Book/create",{

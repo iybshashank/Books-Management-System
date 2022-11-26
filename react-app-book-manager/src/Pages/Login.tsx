@@ -35,7 +35,7 @@ function Login(){
         setErrorData({show:false,message:""});
           var uname= formData.username;
           var pswd = formData.password;
-        if(uname == "" || pswd == ""){
+        if(/^\s+$/.test(uname) || /^\s+$/.test(pswd) || uname == "" || pswd == ""){
             setErrorData({show:true,message:"Please enter username and password."});
             return;
         }

@@ -67,8 +67,10 @@ function Edit(){
        function editSubmit(){
      
         setErrorData({show:false,message:""})
-        if(formData.bName=="")
+        if(/^\s+$/.test(formData.bName) || formData.bName == ""){
             setErrorData({show:true,message:"Enter book name"})
+            return;
+        }
 
         axios.put(process.env.REACT_APP_API_URL+"Book/update",{
             id:state.props.id,
@@ -85,7 +87,6 @@ function Edit(){
                 
                 .then(rSubmit)
                 
-                console.log(formData);
                 
 
        }
