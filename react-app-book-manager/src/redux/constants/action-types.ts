@@ -1,0 +1,7 @@
+export const actionTypes={
+    LIST_BOOKS:'LIST_BOOKS',
+    REMOVE_BOOK : 'REMOVE_BOOK',
+    LOGIN_USER:'USER',
+    LOGOUT_USER:'LOGOUT_USER',
+    IS_LOGIN:'IS_LOGIN',
+};
