@@ -1,4 +1,4 @@
-# Books-Management-System
+# Books Management System
 
 This project is built using C#, NET Core 3.1, React and TypeScript, for database SQL is used.<br />
 This project consists of multiple projects with same operation but built differently as web app, windows app, API project, React app, <br />
